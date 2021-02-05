@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "234471422514",
+    "project_id": "flutter-signin-c3e34",
+    "storage_bucket": "flutter-signin-c3e34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234471422514:android:bbd200fd100b3432235a2b",
+        "android_client_info": {
+          "package_name": "com.vidvalda.authappflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234471422514-qr3ggmrhgpmhckb4bkob73qb52irms6t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vidvalda.authappflutter",
+            "certificate_hash": "ef299615937eec352b367008da178192a8db3676"
+          }
+        },
+        {
+          "client_id": "234471422514-56mt4vvkefhubdtckagffd7n30tk85kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPswrlVntgdhsg-8GmQ0bN7S9tuPz-RQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234471422514-56mt4vvkefhubdtckagffd7n30tk85kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
